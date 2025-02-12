@@ -30,8 +30,12 @@ Each project is organized in a separate folder, containing:
 📬 Contact Me
 
 For any questions or suggestions, feel free to connect:
+
 📧 Email: workasanalyst@gmail.com
+
 🔗 LinkedIn : www.linkedin.com/in/muhammad-salman-analyst
+
 🛠️ GitHub: https://github.com/Salman-analyst
+
 ---
 Feel free to **fork**, **star**, and **contribute** to this repository! ⭐
