@@ -6,13 +6,13 @@ This Power BI dashboard provides an interactive analysis of restaurant sales per
 
 🖼️ Dashboard Preview
 
-<img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/3d2d2c4c-eec3-4d41-b2ff-964c9be53ba5" />
+<img width="1343" height="746" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/fb31dce3-c890-4278-83f4-36a76ec78cc0" />
 
-<img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/ad7df2b4-48c1-4d67-8e41-71b449ff36c9" />
+<img width="1311" height="743" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/c3f9cd10-fb24-4ecb-91cd-0bc607746efa" />
 
-<img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/165319c9-d278-41a8-816a-fda23ee62db6" />
+<img width="1316" height="745" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/e50a8066-8870-49b0-b141-c908cc091463" />
 
-<img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/20f52366-7861-45eb-a415-31d752e0a9bb" />
+<img width="1346" height="756" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/5709de93-b4ec-44fd-9107-e7bca3d86a7b" />
 
 🗂️ Files Included
 
