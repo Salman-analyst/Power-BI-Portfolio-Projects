@@ -21,9 +21,6 @@ Each project is organized in a separate folder, containing:
 
 ## 🚀 How to Use
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   ```
 2. Open the `.pbix` files in Power BI Desktop.
 3. Explore the reports and visualizations.
 
